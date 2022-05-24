@@ -1,0 +1,16 @@
+{
+  "name": "restaurant-randomizer",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A web app designed to help you randomly choose a restaurant.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aidan Hsiao",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.4"
+  }
+}
